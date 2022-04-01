@@ -8,4 +8,8 @@ class ControladorPagina extends GetxController{
     item(posicion);
   }
 
+  dest(){
+
+  }
+
 }
